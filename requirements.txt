@@ -1,0 +1,5 @@
+strands-agents
+boto3
+tavily-python>=0.7.12
+python-dotenv
+gradio
